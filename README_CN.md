@@ -1,5 +1,6 @@
 # mask-tflite
 一个用于检测是否戴口罩的分类器。
+[English README](https://github.com/SingTown/mask-tflite/blob/main/README.md)
 这个模型是使用edgeimpulse训练的，教程：
 https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
