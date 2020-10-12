@@ -11,7 +11,7 @@ https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
 1. 只有OpenMV4 H7 Plus能使用。
 2. 我上传的样本只上传了单人的。如果你的测试画面有多人，准确度不可信。
-3. 我没有使用背景，只知道是否戴了口罩。如果画面中没有人脸，准确度不可信。
+3. 我没有使用背景分类，分类器只知道人脸是否戴了口罩。如果画面中没有人脸，准确度不可信。
 
 ## 使用:
 1. 把 labels.txt 和 trained.tflite 拖到OpenMV4 H7 Plus中。
