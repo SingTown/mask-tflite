@@ -1,5 +1,7 @@
 # mask-tflite
 A classification of whether or not to wear a mask.
+[中文README](https://github.com/SingTown/mask-tflite/blob/main/README_CN.md)
+
 This model I trained with edgeimpulse, tutorial:
 https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 
