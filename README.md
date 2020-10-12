@@ -10,7 +10,7 @@ https://docs.edgeimpulse.com/docs/openmv-cam-h7-plus
 ## Note:
 
 1. only OpenMV 4 Plus can be used.
-2. my sample only uploaded a single person picture. If there are more than one person in the test screen, the accuracy is not credible.
+2. my sample only uploaded single person images. If there are more than one person in the test image, the accuracy is not credible.
 3. I don't use background class, the classifier only knows whether the face is wearing a mask. If the test image has no face, the accuracy is not credible.
 
 ## To use:
